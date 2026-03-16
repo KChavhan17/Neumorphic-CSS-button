@@ -1,13 +1,13 @@
 
 ## ​🔘 Neumorphic CSS Button
 ​
-​A modern, interactive button built using
+👉🏻​A modern, interactive button built using
 
 
 Neumorphism (Soft UI) principles.
 
 
-This project focuses 
+👉🏻This project focuses 
 
 
 on mastering advanced CSS shadows 
@@ -16,49 +16,49 @@ on mastering advanced CSS shadows
 and smooth transitions.
 
 
-​## ✈️ Features
+## ✈️ Features
 
 
-​External CSS: Clean separation of structure and style.
+👉🏻​External CSS: Clean separation of structure and style.
 
 
-​Interactive States: Uses :hover with inset
+​👉🏻Interactive States: Uses :hover with inset
 
 
 shadows for a 3D "pressed" effect.
 
 
-​Responsive: Fully centered using Flexbox layout.
+👉🏻​Responsive: Fully centered using Flexbox layout.
 
 
 ## ​🛠️ Technical Breakdown
 
 
-​HTML5: Semantic button structure.
+👉🏻​HTML5: Semantic button structure.
 
 
 ## ​CSS3 Concepts:
 
 
-​box-shadow: Dual shadows (light & dark) for depth.
+​👉🏻box-shadow: Dual shadows (light & dark) for depth.
 
 
-​transition: Smooth 0.3s animation.
+​👉🏻transition: Smooth 0.3s animation.
 
 
-​flexbox: Perfect vertical and horizontal centering.
+​👉🏻flexbox: Perfect vertical and horizontal centering.
 
 
-​border-radius: 50px for a smooth "pill" shape.
+👉🏻​border-radius: 50px for a smooth "pill" shape.
 
 
-​## 📸 Preview
+## 📸 Preview
 
 
-​Background: #e0e0e0
+👉🏻​Background: #e0e0e0
 
 
-​Text Highlight: #6a11cb (Purple Glow)
+​👉🏻Text Highlight: #6a11cb (Purple Glow)
 
 
 ## Live Demo <⁠(⁠￣⁠︶⁠￣⁠)⁠>
