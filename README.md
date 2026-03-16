@@ -16,7 +16,7 @@ on mastering advanced CSS shadows
 and smooth transitions.
 
 
-​🚀 Features
+​## ✈️ Features
 
 
 ​External CSS: Clean separation of structure and style.
@@ -31,7 +31,7 @@ shadows for a 3D "pressed" effect.
 ​Responsive: Fully centered using Flexbox layout.
 
 
-​🛠️ Technical Breakdown
+## ​🛠️ Technical Breakdown
 
 
 ​HTML5: Semantic button structure.
@@ -52,7 +52,7 @@ shadows for a 3D "pressed" effect.
 ​border-radius: 50px for a smooth "pill" shape.
 
 
-​📸 Preview
+​## 📸 Preview
 
 
 ​Background: #e0e0e0
